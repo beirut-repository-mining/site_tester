@@ -45,6 +45,6 @@ jobs:
     - name: ls
       run: ls -R
 
-#     - run: npm start
-#       shell: powershell
+    - run: npm start
+      shell: powershell
 
